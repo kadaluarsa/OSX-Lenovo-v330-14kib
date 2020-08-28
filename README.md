@@ -1,6 +1,6 @@
 # OSX-Lenovo-v330-14kib
+<b>Spesification :</b>
 <ul>
-  <b>Spesification :</b>
   <li>Opencore bootloader</li>
   <li>Catalina 10.15.3</li>
 	<li>CPU intel i5 kabylake-r</li>
