@@ -1,5 +1,4 @@
 # OSX-Lenovo-v330-14kib
-All works </br>
 <ul>
   <b>Spesification :</b>
   <li>Opencore bootloader</li>
@@ -11,11 +10,13 @@ All works </br>
   <li>Intel HD Graphic 620 work with Whatevergreen.kext</li>
 	<li>SSD Samsung EVO 860 256GB</li>
 	<li>HDD 1TB</li>
-</ul></br><br>
-<ul>
-  <b>Works :</b>
-	<li>All works</li>
 </ul></br>
+
+<b>Works :</b>
+  <ul>
+  <li>All feature works</li>
+  </ul>
+</br>
 Make sure to disable CFG lock : <br>
 How to enable advance bios option lenovo : <br>
 ENTER BIOS NORMALLY THEN PUSH POWER BUTTON TO POWEROFF <br>
