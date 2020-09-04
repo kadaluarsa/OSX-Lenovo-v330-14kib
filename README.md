@@ -4,7 +4,7 @@
   <li>Opencore bootloader 0.6.0</li>
   <li>Catalina 10.15.3</li>
 	<li>CPU intel i5 kabylake-r</li>
-	<li>RAM 12GB DDR4L</li>
+	<li>RAM 12GB DDR4</li>
   <li>Replaced with BCM4360 work native without patch</li>
   <li>Trackpad ELAN work with SSDT-TPAD.aml with voodooi2c.kext+Elan satelite</li>
   <li>Intel HD Graphic 620 work with Whatevergreen.kext</li>
